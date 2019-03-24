@@ -57,7 +57,7 @@
                     VerticalOptions="CenterAndExpand">
                     <Label
                     HorizontalOptions="StartAndExpand"
-                    Text="Remember me in this device"
+                    Text="Remember me on this device"
                     VerticalOptions="Center">
                     </Label>
                     <Switch

@@ -55,6 +55,8 @@ namespace Lands.ViewModels
 
             this.Email = "gbalejandro@msn.com";
             this.Password = "1234";
+
+            // http://restcountries.eu/rest/v2/all
         }
 
         #endregion
